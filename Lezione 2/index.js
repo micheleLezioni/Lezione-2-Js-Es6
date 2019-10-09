@@ -1,11 +1,10 @@
 //spread operator
-function somma(a, b, c) {
+/* function somma(a, b, c) {
   console.log(a + b + c);
 }
 
 var nums = [3, 4, 5];
-somma(...nums); //nums[0]+ nums[1] ecc nums[length-1]
-
+somma(...nums);  */ //nums[0]+ nums[1] ecc nums[length-1]
 
 /* const cibo = ["banana", "cetriolo"];
 const carne = ["pollo", ...cibo, "vitello", "agnello"]; */
@@ -51,10 +50,9 @@ console.log(arr); */
 ); 
 console.log(new_array);
 */
-/*
 
 //new_array = [2,4,6,8,10,12]
-
+/*
 var arr = [1, 2, 3, 4, 5, 6, 7];
 console.log(arr);
 //RITORNA SEMPRE UN ARRAY DI ELEMENTI
@@ -62,3 +60,4 @@ console.log(arr);
 //ELEMENTI CHE SIANO MAGGIORI DI 3
 var filteredArray = arr.filter(current => current > 3 && current < 5);
 console.log(filteredArray);
+*/
